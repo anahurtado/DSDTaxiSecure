@@ -11,7 +11,7 @@
 
 <html:html lang="true">
     <head>
-        <title>I Taxi</title>
+        <title>TS Taxi Secure</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link href="css/style.css" rel="stylesheet" type="text/css" />
         <script src="js/default.js" language="javascript" type="text/javascript"></script>
@@ -25,7 +25,7 @@
                     <div class="main">
                         <div class="header">
                             <div class="header-top">
-                                <h1>ITaxi<span> Taxi Empresarial</span></h1>
+                                <h1>TS<span> Taxi Secure</span></h1>
                             </div>
                         </div>
 
@@ -63,12 +63,11 @@
                             <p>&copy; Copyright 2010. Designed by <a target="_blank" href="http://www.htmltemplates.net">HTML Templates</a><br /></p>
                             <ul>
                                 <li style="border-left: medium none;"><a href="#"><span>Home</span></a></li>
-                                <li><a href="#"><span>About&nbsp;us</span></a></li>
-                                <li><a href="#"><span>What's&nbsp;new</span></a></li>
-                                <li><a href="#"><span>Services</span></a></li>
-                                <li><a href="#"><span>Contact</span></a></li>
-                                <li><a href="#"><span>Resources</span></a></li>
-                                <li style="padding-right: 0px;"><a href="#"><span>Links</span></a></li>
+                                <li><a href="#"><span>A cerca de </span></a></li>
+                                <li><a href="#"><span>Servicios</span></a></li>
+                                <li><a href="#"><span>Contactarse</span></a></li>
+                                <li><a href="#"><span>Recursos</span></a></li>
+                                <li style="padding-right: 0px;"><a href="#"><span>Accesos</span></a></li>
                             </ul>
                         </div>
                     </div>

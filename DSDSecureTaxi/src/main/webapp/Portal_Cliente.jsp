@@ -30,7 +30,7 @@
 <div class="main">
 <div class="header">
 <div class="header-top">
-<h1>I Taxi <span>Taxi Empresarial</span></h1>
+<h1>TS Taxi <span>Taxi Secure</span></h1>
 </div>
 <div class="header-bottom">
 <h2>Viaje comodo y seguro<br>
@@ -74,7 +74,7 @@ Taxi Rapido</h2>
 
 <div class="content-right">
 <div class="mainmenu">
-<h2 class="sidebar1">Main Menu</h2>
+<h2 class="sidebar1">Menu Principal</h2>
 <ul>
   <li><a href="Empleado.do" target="content-content">Mantenimiento Empleados</a></li>
   <li><a href="Sede1.do?accion=listar" target="content-content">Mantenimiento de Sedes</a></li>
@@ -96,28 +96,25 @@ Taxi Rapido</h2>
 <div class="contact">
 <h2 class="sidebar2">Contact</h2>
 <div class="contact-detail">
-<p class="green"><strong>Lorem Ipsum is simply dummy text</strong></p>
-<p><strong>Adress :</strong> Lorem Ipsum has been the<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dummy
-text the 1500s,</p>
-<p><strong>E-mail :</strong> &nbsp;&nbsp;&nbsp;when an unknown printer
-took a</p>
-<p><strong>Phone :</strong> &nbsp;&nbsp;&nbsp;00-0000000000<br/>
+<p class="green"><strong>Mas a cerca del servicio.</strong></p>
+<p><strong>Direccion :</strong> Conde de Superunda 1300<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.</p>
+<p><strong>Correo :</strong> &nbsp;&nbsp;&nbsp;tsecure@tsecure.com.pe</p>
+<p><strong>Telefono :</strong> &nbsp;&nbsp;&nbsp;4241059<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;000-0000-0000</p>
 </div>
 </div>
 </div>
 </div>
 <div class="footer">
-<p>&copy; Copyright 2010. Designed by <a target="_blank" href="http://www.htmltemplates.net">HTML Templates</a><br /></p>
+<p>&copy; Diseñado por <a target="_blank" href="http://www.htmltemplates.net">UPC Templates</a><br /></p>
 <ul>
-  <li style="border-left: medium none;"><a href="index.html"><span>Home</span></a></li>
-  <li><a href="#"><span>About&nbsp;us</span></a></li>
-  <li><a href="#"><span>What's&nbsp;new</span></a></li>
-  <li><a href="#"><span>Services</span></a></li>
-  <li><a href="#"><span>Contact</span></a></li>
-  <li><a href="#"><span>Resources</span></a></li>
-  <li style="padding-right: 0px;"><a href="#"><span>Links</span></a></li>
+  <li style="border-left: medium none;"><a href="index.html"><span>Inicio</span></a></li>
+  <li><a href="#"><span> Acerca de </span></a></li>
+  <li><a href="#"><span>Sericios</span></a></li>
+  <li><a href="#"><span>Contactar</span></a></li>
+  <li><a href="#"><span>Recursos</span></a></li>
+  <li style="padding-right: 0px;"><a href="#"><span>Accesos</span></a></li>
 </ul>
 </div>
 </div>

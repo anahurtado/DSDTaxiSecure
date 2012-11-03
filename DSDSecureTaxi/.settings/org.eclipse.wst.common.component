@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="UPCDEW_TaxiEmpresarial_Itaxi_Maven_">
+    <wb-module deploy-name="DSD_TaxiSecure">
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
-        <property name="context-root" value="UPCDEW_TaxiEmpresarial_Itaxi_Maven_"/>
-        <property name="java-output-path" value="/UPCDEW_TaxiEmpresarial_Itaxi_Maven_/target/classes"/>
+        <property name="java-output-path" value="/DSD_TaxiSecure/target/classes"/>
+        <property name="context-root" value="DSD_TaxiSecure"/>
     </wb-module>
 </project-modules>
